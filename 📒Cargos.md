@@ -1,4 +1,4 @@
-[[🎸Roqueiro]]
+[🎸Roqueiro](Cargos/🎸Roqueiro)
 [[🔫Solo]]
 [[💻Trilha-Redes]]
 [[🔧Técnico]]
