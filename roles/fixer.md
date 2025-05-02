@@ -5,6 +5,8 @@ aliases:
   - Fixer
   - Negociador
 ---
+# 💶 Negociador
+
 > “Pense em mim como um **intermediário**. Se você precisar de uma equipe de assassinos, um  carro novo, uma antiguidade rara? Eu sou seu homem. Pagamento? **Eurobucks**, claro, e talvez um favor aqui ou ali. Tenho certeza de que você tem talentos de algum outro **cliente** vai se interessar. É tudo uma grande teia e eu estou no **centro**. Na semana passada, eu peguei uma carona até a Zona de Combate para buscar um carregamento de explosivos que faria o **DPNC** ter um ataque cardíaco. Amanhã, eu tenho um encontro no Mercado Noturno para vender um caminhão cheio de hardware para os Iron Sights. Eu não preciso **saber** o que vão fazer com isso. Como eu disse, eu sou apenas o **intermediário**”.
 >Graxa, Negociador
 

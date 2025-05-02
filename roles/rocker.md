@@ -5,6 +5,7 @@ aliases:
   - Rocker
   - Roqueiro
 ---
+# 🎸Roqueiro
 
 > “Meu velho tentou fazer música lá atrás antes da Guerra. As Corporações o pegaram, sugaram tudo dele e o largaram Na Rua para **morrer**. Hoje em dia é diferente. Eu escrevo as minhas **próprios** arranjos, gravo tudo sozinho e depois colono no Conjunto de Dados. Sem nenhuma Corporação. Ainda não estão gritando meu nome das grandes casas de show, mas tenho **fãs** e não tenho que comprometer minha arte por ninguém, sendo um **Roqueiro** original, minha música mostra o dedo do meio para todos aqueles sedentos por poder que acham que podem **controlar** o mundo.
 > Forty, Roqueiro

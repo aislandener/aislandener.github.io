@@ -5,6 +5,8 @@ aliases:
   - Netrunner
   - Trilha-Redes
 ---
+# 💻 Trilha-Redes
+
 >“Foi **fácil** para o Bartmoss. Ele relaxou em uma geladeira enquanto sua mente vagava por todo o planeta e, graças a ele, eu nunca vou ter essa porra de **luxo**. Para quebrar um sistema, tenho que mover minha **carne** para poder conectar-me no local. Certo, talvez eu encontre um **Cão Infernal**, mas eles não aceleram o meu coração. Eu tenho a habilidade e os programas para lidar com esses filhotes. Eles não são problema. Sabe o que me **assusta**? Cães reais. Clonados chipados e ciberizados para serem **piores** que qualquer GELO Negro. É por isso que eu sempre trabalho com amigos. Eles cuidam dos cães reais. Eu cuido dos Cães Infernais. **Simbiose** em sua melhor forma"
 >Redeye, Trilha-Redes
 

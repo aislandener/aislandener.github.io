@@ -5,6 +5,8 @@ aliases:
   - Nomad
   - Nômade
 ---
+# 🚗 Nômade
+
 > “As pessoas não se **importavam** muito com a gente, os Nômades. Minha família foi e veio como o **vento** e as pessoas não prestaram muita atenção. Diabos, na maioria das vezes, quando as pessoas notavam, elas tentavam nos **expulsar**. Mas as coisas são **diferentes** agora. Acontece que, quando a sociedade entra em colapso, os andarilhos se tornam **úteis**. Agora as pessoas nos pagam para transportar suas cargas e mantê-las protegidas. Funciona bem. Não há nada como a **liberdade** das estradas sob as rodas. Eu tenho minha **moto**, minha **arma** e minha **família**. Isso é tudo que eu preciso.”
 > Corredora Rajavi, Nômade Aldecaldo.
 

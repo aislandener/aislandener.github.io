@@ -5,6 +5,8 @@ aliases:
   - Corporate
   - Executivo
 ---
+# 📃 Executivo
+
 > “Se você quer **sucesso** no mundo Neocorporativo, você precisa se lembrar da regra número um: esteja sempre **sedento**. Jacinda Hidalgo e Artyom Sokolov não chegaram ao topo ficando de pernas para o ar. Continue negociando, continue comerciando e se alguém tentar te parar? **Destrua-os**. E se você não puder? Encontre um jeito. Faça o que for **preciso**. Sempre tenha um plano para destruir qualquer um que conheça. Esse é o caminho das Corporações. Mantenha seus melhores recursos **próximos**, certifique-se de que eles saibam que você está no caminho para o topo e se eles entrarem na linha? Podem vir juntos”.
 > Chanda Mishra, Rocklin Augmentics Executivo
 

@@ -5,6 +5,8 @@ aliases:
   - Lawman
   - Homem da Lei
 ---
+# 👮Homem da Lei
+
 > “Ouça, moleque, nos chame como **quiser**. Homens da lei, distintivos, **porcos**. Não importa. A cidade está em **ruínas** e cada vez mais vemos as pessoas atrapalhando a reconstrução. Vagabundos, ciberpsicopatas, grupos terroristas, o pior dos **piores**. Eu não estou nisso pela glória nem para **agitar** minha arma por ai como algum Solo figurão. Eu fiz um juramento para manter esta cidade segura e eu levo isso a sério. Alguém tem que manter as ruas seguras para que civis como você possam ir até o mercado sem levar uma bala perdida da última guerra de gangues. Esse sou **eu**.
 > Oficial Suri “Cavalaria” Navarro, DPNC.
 

@@ -5,6 +5,7 @@ aliases:
   - Techie
   - Técnico
 ---
+# 🔧 Técnico
 
 >“Só porque o mundo se afundou na **merda** e foi colocado para secar, não significa que as coisas mudaram tanto. A vida nesta cidade ainda depende da **tecnologia** para impedir que tudo entre completamente em modo pós-apocalíptico. E isso significa que todos dependem de **mim**. Se seu liquidificador quebrar, é provável que você não encontre um novo no Mercado Noturno local por **semanas**. Talvez **meses**. E isso assumindo que você tenha uma relação boa com o Negociador local e ele queira te convidar. Enquanto isso, estou aqui, pronto para **consertar** seu liquidificador. E seu Agente. E o que mais você precisar. A tecnologia é a **alma** desta Cidade e eu? Eu sou o coração que mantém o sangue circulando. Pelo menos neste bairro.”
 >João “Tocha” Barbosa Alves, Dono de Reparos Tocha

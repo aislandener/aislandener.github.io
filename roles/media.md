@@ -5,6 +5,8 @@ aliases:
   - Media
   - Mídia
 ---
+# 📸 Mídia
+
 > “Costumava trabalhar para Night City Today, acredita? **Buscando** café e **carregando** equipamento de câmera como uma mula! Qual foi a primeira chance que eu tive um **furo**? Uma reportagem sobre os RPs de Corporações em uma ação publicitária dando ração para pessoas que precisavam de comida de verdade… eu não virei repórter para **sorrir** para as câmeras e fazer piadas por aí com um meteorologista travado com Coca Sintética. Por isso, eu pedi as contas. Agora estou no meio da **ação**: na linha de frente. Eu cuido do meu próprio negócio, vou atrás dos furos e trago para as pessoas as notícias que elas realmente querem! Se você quer saber o que realmente está acontecendo na cidade, clique em Nunca Pisque Notícias.”
 > 24/7, repórter para Nunca Pisque Notícias
 

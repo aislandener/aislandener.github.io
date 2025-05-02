@@ -5,6 +5,7 @@ aliases:
   - Medtech
   - Tecnomédico
 ---
+# 💉 Tecnomédico
 
 > “Eu conserto o que está **quebrado** desde que era jovem. A primeira vez foi quando um pássaro se chocou com o vidro da nossa Kombi na estrada das ruínas de Los Angeles. Estávamos viajando **sozinhos**, e meu velho, sabendo que eu era sensível a esse tipo de coisa, parou de dirigir e deixou sair para pegar a carcaça. Acabou que era um falcão de cauda vermelha ainda vido. Imobilizei sua asa quebrada e **cuidei** dele até se recuperar. Mamãe viu o que eu fiz e me colocou de aprendiz com o **curandeiro** do Bando. Agora, eu que sou o curandeiro. Não, não tenho **iniciais** depois do meu nome, mas ainda posso **consertar** esse braço quebrado. Ou você pode perdê-lo. Você escolhe”
 > Virgil “Rabo de Cavalo” Martinez

@@ -4,6 +4,8 @@ tags:
 aliases:
   - Solo
 ---
+# 🔫 Solo
+
 > “Com quem eu me juntaria? Estava cansado de passar **fome** e ser **pobre**. Quando a Militech ofereceu um teto e uma cama, pode acreditar que eu me inscrevi. As primeiras missões não eram ruins. A terceira falhou miseravelmente. Não seu por que, mas eles enviaram um esquadrão de **novatos** contra um monte de ciborgues completos. Só dois de nós sobreviveram. Depois da Guerra, peguei o novo **cromo** que os médicos Corporativos me deram e fui trabalhar por conta própria. Acontece que , quando uma cidade é **destruída** e reconstruída, muita gente está disposta a **pagar** por um certo conjunto de habilidades. Ainda bem que eu sou uma delas.”
 >  Abril “Movedora” Montella, contratante privado
 
