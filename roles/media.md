@@ -39,8 +39,8 @@ Os Mídias estão profundamente conectados às redes de informação. Assumindo 
 
   
 
-> [!NOTE] Rumores
-> 💡 **Rumores, por definição, geralmente são falsos e nunca apresentam toda a história.
+> [!TIP]
+> **Rumores, por definição, geralmente são falsos e nunca apresentam toda a história.
 > Desvendá-los é o seu trabalho.
 > Lembre-se, algumas portas são perigosas de abrir.**
 

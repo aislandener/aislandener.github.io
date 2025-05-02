@@ -11,7 +11,8 @@ Aqui onde você mora e vive, bem provável que conheça essa cidade por inteiro,
 
 ## Zona Radioativa
 
-> [!info] **Classificação de Risco: Combate**
+> [!IMPORTANT]
+>  **Classificação de Risco: Combate**
 
 Essas são as áreas que costumavam compor a Zona Corporativa do centro da cidade. Embora grande parte dessa área tenha sido demolida e arrastada para a Baía como preenchimento, o restante é uma paisagem assombrada por arranha-céus colapsados e retorcidos, veículos queimados e os corpos sepultados dos sem sorte. Embora a radiação tenha diminuído, ela ainda está presente, e a maioria das pessoas abandonou a área, deixando-a para as piores gangues. Quem anda por aí, provavelmente é um membro de gangue, um suicida ou foi atraído para lá buscando encontrar tesouros escondidos nos destroços.
 
@@ -30,7 +31,8 @@ Antigos Bairros que fazem parte da desolada Zona Radioativa são:
 
 ## Centro Urbano em Reconstrução
 
-> [!info] **Classificação de Risco: Corporativo/Moderado**
+> [!IMPORTANT]
+>  **Classificação de Risco: Corporativo/Moderado**
 
 Nem toda Night City foi obliterada no holocausto. Uma parte considerável do centro urbano sobreviveu, agora novamente tomado por arranha-céus e construções urbanas densamente povoadas. Mas a detonação e a destruição subsequente danificaram os diques e quebra-mares que impediam que a Baía e o Oceano Pacífico adentrassem o aterra em que se encontrava a maior parte do Centro da Cidade. Inundações periódicas são comuns, e o fornecimento de luz e água são inconstante, na melhor das hipóteses. Os serviços de metrô NCART ainda funcionam, quando não estão inundados pela maré; o setor de planejamento urbano está trabalhando para elevar a maior parte dos trilhos em uma nova configuração de monotrilhos, mas isso levará tempo e dinheiro que a cidade não tem.
 
@@ -52,6 +54,7 @@ Um florescente novo distrito que contém a maior parte dos edifícios governamen
 
 ## Zona Executiva
 
-> [!info]  **Classificação de Risco: Executivo**
+> [!IMPORTANT]  
+> **Classificação de Risco: Executivo**
 
 Essa é uma área especial da Cidade fechada e fortemente defendida, reservada para uso exclusivo de executivos Corporativos de alto escalão e suas famílias. Além das residências luxuosa, ela abriga seu próprio shopping e instalações recreativas, incluindo campos de golfe, spas privados e clubes.
