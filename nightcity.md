@@ -9,7 +9,7 @@ Aqui onde você mora e vive, bem provável que conheça essa cidade por inteiro,
 
 ![Night_City](assets/images/Night_City.jpeg)
 
-## Zona Radioativa> 
+## Zona Radioativa
 
 > [!info] **Classificação de Risco: Combate**
 
@@ -41,6 +41,7 @@ Os bairros que fazem parte do Centro Urbano em Reconstrução são:
 
 Um florescente novo distrito que contém a maior parte dos edifícios governamentais importantes de Night City.
 
+{:start="2"}
 2. [1° Banco de Night City](nigthcity/glen/first_bank_night_city)
 3. [Câmara Municipal](nigthcity/glen/city_council)
 4. [1° Delegacia de Polícia da Cidade](nigthcity/glen/first_police_station_in_the_city)
@@ -48,3 +49,9 @@ Um florescente novo distrito que contém a maior parte dos edifícios governamen
 6. [Palácio da Justiça](nigthcity/glen/palace_justice)
 7. [Escritórios da Merrill, Asukaga e Finch](nigthcity/glen/merrill_asukaga_and_finch_offices)
 8. [Microcibernética Raven](nigthcity/glen/raven_microcybernetics)
+
+## Zona Executiva
+
+> [!info]  **Classificação de Risco: Executivo**
+
+Essa é uma área especial da Cidade fechada e fortemente defendida, reservada para uso exclusivo de executivos Corporativos de alto escalão e suas famílias. Além das residências luxuosa, ela abriga seu próprio shopping e instalações recreativas, incluindo campos de golfe, spas privados e clubes.
