@@ -4,6 +4,7 @@ tags:
   - ZonaRadioativa
 aliases:
   - Totentanz
+  - 01 - Mapa
 ---
 # Totentanz
 

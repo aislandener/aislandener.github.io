@@ -7,4 +7,4 @@ aliases:
 ---
 # Vampiros Filarmônicos
 
-Os Vamps são uma gangue de brincalhões que foi apelidada de “Vampiros Filarmônicos” algumas décadas atrás, quando cinco membros vestidos com smokings, capas e dentes de vampiro apareceram voando com cordas atrás da Orquestra Sinfônica de [Night City](/2a0c4f3c02f546c3a5c86ddc93dbdfcc?pvs=25) na noite de Halloween. não se sabe se eles são artistas, bandidos ou comentarista sociais, ou se os dente fazem parte de alguma fantasia.
+Os Vamps são uma gangue de brincalhões que foi apelidada de “Vampiros Filarmônicos” algumas décadas atrás, quando cinco membros vestidos com smokings, capas e dentes de vampiro apareceram voando com cordas atrás da Orquestra Sinfônica de [Night City](../nightcity.md) na noite de Halloween. não se sabe se eles são artistas, bandidos ou comentarista sociais, ou se os dente fazem parte de alguma fantasia.
