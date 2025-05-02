@@ -1,6 +1,9 @@
 ---
 tags:
   - 💊Drogas
+aliases:
+  - Quebra-Tudo
+  - Smash
 ---
 # Quebra-Tudo
 

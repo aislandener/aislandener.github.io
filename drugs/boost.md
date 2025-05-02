@@ -1,6 +1,9 @@
 ---
 tags:
   - 💊Drogas
+aliases:
+  - Impulso
+  - Boost
 ---
 # Impulso
 

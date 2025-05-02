@@ -1,6 +1,9 @@
 ---
 tags:
   - 💊Drogas
+aliases:
+  - Laço negro
+  - Black Lace
 ---
 # Laço Negro
 

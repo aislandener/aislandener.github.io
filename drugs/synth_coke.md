@@ -1,8 +1,11 @@
 ---
 tags:
   - 💊Drogas
+aliases:
+  - Coca Sintética
+  - Synth Coke
 ---
-# Coca sintética
+# Coca Sintética
 
 **Preço por Dose:** 20eb (Cotidiano)
 

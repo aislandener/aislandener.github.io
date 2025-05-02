@@ -1,6 +1,9 @@
 ---
 tags:
   - 💊Drogas
+aliases:
+  - Vidro Azul
+  - Blue Glass
 ---
 # Vidro Azul
 
