@@ -8,7 +8,7 @@ aliases:
 > “Ouça, moleque, nos chame como **quiser**. Homens da lei, distintivos, **porcos**. Não importa. A cidade está em **ruínas** e cada vez mais vemos as pessoas atrapalhando a reconstrução. Vagabundos, ciberpsicopatas, grupos terroristas, o pior dos **piores**. Eu não estou nisso pela glória nem para **agitar** minha arma por ai como algum Solo figurão. Eu fiz um juramento para manter esta cidade segura e eu levo isso a sério. Alguém tem que manter as ruas seguras para que civis como você possam ir até o mercado sem levar uma bala perdida da última guerra de gangues. Esse sou **eu**.
 > Oficial Suri “Cavalaria” Navarro, DPNC.
 
-![[Lawman_Profile_pic_RED.webp]]
+![Lawman_Profile_pic_RED.webp](../images/Lawman_Profile_pic_RED.webp)
 
 Nos velhos tempos antes da Guerra, costumavam tentar atirar em policiais. Agora você terá sorte se for pego por só uma bala. A Rua é difícil hoje em dia, cheia de drogas, gangues e armas novas que fazem um Minami-10 parecer um brinquedo de criança. Mas, mesmo assim, você está por aí fazendo o que pode para Proteger - e Servir.
 

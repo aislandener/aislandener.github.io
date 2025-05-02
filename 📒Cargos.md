@@ -1,10 +1,10 @@
 [🎸Roqueiro](Cargos/🎸Roqueiro)
-[[🔫Solo]]
-[[💻Trilha-Redes]]
-[[🔧Técnico]]
-[[💉Tecnomédico]]
-[[📸Mídia]]
-[[📃Executivo]]
-[[👮Homem da Lei]]
-[[💶Negociador]]
-[[🚗Nômade]]
+[🔫Solo](Cargos/🔫Solo)
+[💻Trilha-Redes](Cargos/💻Trilha-Redes)
+[🔧Técnico](Cargos/🔧Técnico)
+[💉Tecnomédico](Cargos/💉Tecnomédico)
+[📸Mídia](Cargos/📸Mídia)
+[📃Executivo](Cargos/📃Executivo)
+[👮Homem da Lei](Cargos/👮Homem da Lei)
+[💶Negociador](Cargos/💶Negociador)
+[🚗Nômade](Cargos/🚗Nômade)
