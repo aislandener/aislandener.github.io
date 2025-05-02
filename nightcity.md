@@ -43,7 +43,8 @@ Os bairros que fazem parte do Centro Urbano em Reconstrução são:
 
 Um florescente novo distrito que contém a maior parte dos edifícios governamentais importantes de Night City.
 
-{:start="2"}
+%%{:start="2"}%%
+
 2. [1° Banco de Night City](nigthcity/glen/first_bank_night_city)
 3. [Câmara Municipal](nigthcity/glen/city_council)
 4. [1° Delegacia de Polícia da Cidade](nigthcity/glen/first_police_station_in_the_city)
@@ -52,9 +53,83 @@ Um florescente novo distrito que contém a maior parte dos edifícios governamen
 7. [Escritórios da Merrill, Asukaga e Finch](nigthcity/glen/merrill_asukaga_and_finch_offices)
 8. [Microcibernética Raven](nigthcity/glen/raven_microcybernetics)
 
+### Distrito Universitário
+
+Um bairro estreito às margens da Zona de Combate que abriga a única universidade ainda em funcionamento da cidade
+
+%%{:start="9"}%%
+9. [Campus da Biotechnica](nigthcity/university_district/biotechnica_campus)
+10. [Universidade de Night City](nigthcity/university_district/nightcity_university)
+
+### Pequena Europa
+
+Um distrito segmentado que abriga vizinhanças compactas compostas tanto por construções de tijolos quanto altos arranha-céus.
+
+%%{:start=11}%%
+11. [Corte Camden](nigthcity/little_europe/camden_court)
+12. [Escritórios da Continental Brands](nigthcity/little_europe/continental_brands_offices)
+13. [Escritórios da Danger Gal](nigthcity/little_europe/danger_gal_offices)
+14. [Igreja dos Santos Anjos](nigthcity/little_europe/church_of_the_holy_angels)
+15. [2° Corpo de Bombeiros de Night City](nigthcity/little_europe/second_nightcity_fire_department)
+16. [Curto-Circuito](nigthcity/little_europe/short_circuit)
+
+### Marina Superior
+
+Um distrito urbano movimentado com uma mistura de antigas zonas industriaise fistintos bairros de estilo “Internacional” construídos em torno de uma marina bem-conservada.
+
+%%{:start="17"}%%
+
+### Desenvolvimento Watson
+
+### Base Militar do Norte da Califónia
+
+### Pedra do Morro
+
+### Pacífica Recreativa
+
 ## Zona Executiva
 
 > [!IMPORTANT]  
 > **Classificação de Risco: Executivo**
 
 Essa é uma área especial da Cidade fechada e fortemente defendida, reservada para uso exclusivo de executivos Corporativos de alto escalão e suas famílias. Além das residências luxuosa, ela abriga seu próprio shopping e instalações recreativas, incluindo campos de golfe, spas privados e clubes.
+
+## Zonas de Combate
+
+> [!IMPORTANT] 
+> **Classificação de Risco: Combate**
+
+As gangues são os soberanos absolutos das Zonas de Combate. Espreitando entre as favelas, os cortiços e as ruínas de quarteirões abandonados, as gangues e seus aliados se dividem pelo território, controlam seus recursos limitados e matam qualquer um ou qualquer coisa que entre em seus caminhos. Não existem reconstruções em andamento em Zonas de Combate, embora, de tempos em tempos, Oficiais da Lei Corporativos ou Municipais descendem sobre a área como uma tonelada de concreto, chacinando membros de gangues - um processo que a Cidade caracteriza como “aparar á trepadeira”.
+
+Os Bairros que fazem parte das Zonas de Combate são:
+
+## Subúrbios Superlotados
+
+> [!IMPORTANT]
+>  **Classificação de Risco: Moderado/Combate**
+
+No pós-Guerra, a maior parte do centro de Night City se encontrava inabitável, não por causa da radiação residual, mas pela perda de energia, estogo e abastecimento de água. Os subúrbios se tornaram o lar de diversas cidades-barracos e campos de refugiados não regulamentados comprimidos onde antes “Beaversvilles”. Embora enormes megaedifícios estejam em construção para abrigar refugiados, essa região está superlotada, dominada pelo crime e sempre à beira do desatre.
+
+Os bairros que se encontram nos Subúrbios Superlotados são:
+
+## Perímetro Recuperado
+
+> [!IMPORTANT]
+> **Classificação de Risco: Periférico**
+
+Embora Night City fosse o núcleo regional, ela era cercada por uma constelação de cidade e subúrbios menores. A maior parte deles foi abandonado durante o período entre 2000 e 2020, pois se encontravam muito afastados para conseguirem se proteger das gangues de motoqueiros itinerantes que assolavam a área.
+
+Agora, com o apoio de Famílias Nômades e de segurança privada, os Reconstrutores buscam construir novos lares para os refugiados da Cidade em muitos desse lugares abandonados.
+
+**As Cidades vizinhas que fazem parte do Perímetro Recuperado são**: Atascadero, Praia Avila, Cambria, Los Osos, Paso Robles, Praia Pismo, São Luis Obispo e São Simeão.
+
+## Autopistas
+
+> [!IMPORTANT]
+> **Classificação de Risco: Periférico**
+
+Na década de 2020, as Autopistas eram lar de gangues de motoqueiros e caravanas Nômades bem defendidas. Mas na medida em que as Famílias Nômades assumiram maior controle sobre o comércio e o transporte mundial, elas começaram a usar equipamentos militares excedentes para expulsar as gangues e tornar as estradas mais seguras para a locomoção.
+
+As estradas ainda são extensas e áridas, cobertas de veículos queimados em determinadas áreas, mas a cada dia que passa, as Autopistas se parecem mais com a Rota 66 do que com Mad Max.
+
+**Velhas rodovias que fazem parte das Autopistas são**: a Rota 41 do Estado da Califórnia, Rota 46 do Estado da Califórnia, Rota 58 do Estado da Califórnia, Rota 99 do Estado da Califórnia, Rota 828 do Estado da Califórnia, Rodovia Interestadual 5 e Rodovia Interestadual 101.
