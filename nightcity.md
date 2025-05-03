@@ -27,7 +27,7 @@ Antigos Bairros que fazem parte da desolada Zona Radioativa são:
 **O Antigo Centro Médico**: O Antigo Centro Médico, em grande parte tomado por radiação, abriga muitos hospitais enterrados sob escombros.
 
 ### Zona Radioativa
-1. [Totentanz](nigthcity/radioactive_zone/totentanz.md)
+1. [Totentanz](nightcity/radioactive_zone/totentanz)
 
 ## Centro Urbano em Reconstrução
 
@@ -45,73 +45,73 @@ Um florescente novo distrito que contém a maior parte dos edifícios governamen
 
 {:start="2"}
 
-2. [1° Banco de Night City](nigthcity/glen/first_bank_night_city)
-3. [Câmara Municipal](nigthcity/glen/city_council)
-4. [1° Delegacia de Polícia da Cidade](nigthcity/glen/first_police_station_in_the_city)
-5. [Clube Atlantis](nigthcity/glen/atlantis_club)
-6. [Palácio da Justiça](nigthcity/glen/palace_justice)
-7. [Escritórios da Merrill, Asukaga e Finch](nigthcity/glen/merrill_asukaga_and_finch_offices)
-8. [Microcibernética Raven](nigthcity/glen/raven_microcybernetics)
+2. [1° Banco de Night City](nightcity/glen/first_bank_night_city)
+3. [Câmara Municipal](nightcity/glen/city_council)
+4. [1° Delegacia de Polícia da Cidade](nightcity/glen/first_police_station_in_the_city)
+5. [Clube Atlantis](nightcity/glen/atlantis_club)
+6. [Palácio da Justiça](nightcity/glen/palace_justice)
+7. [Escritórios da Merrill, Asukaga e Finch](nightcity/glen/merrill_asukaga_and_finch_offices)
+8. [Microcibernética Raven](nightcity/glen/raven_microcybernetics)
 
 ### Distrito Universitário
 
 Um bairro estreito às margens da Zona de Combate que abriga a única universidade ainda em funcionamento da cidade
 
 {:start="9"}
-9. [Campus da Biotechnica](nigthcity/university_district/biotechnica_campus)
-10. [Universidade de Night City](nigthcity/university_district/nightcity_university)
+9. [Campus da Biotechnica](nightcity/university_district/biotechnica_campus)
+10. [Universidade de Night City](nightcity/university_district/nightcity_university)
 
 ### Pequena Europa
 
 Um distrito segmentado que abriga vizinhanças compactas compostas tanto por construções de tijolos quanto altos arranha-céus.
 
 {:start="11"}
-11. [Corte Camden](nigthcity/little_europe/camden_court)
-12. [Escritórios da Continental Brands](nigthcity/little_europe/continental_brands_offices)
-13. [Escritórios da Danger Gal](nigthcity/little_europe/danger_gal_offices)
-14. [Igreja dos Santos Anjos](nigthcity/little_europe/church_of_the_holy_angels)
-15. [2° Corpo de Bombeiros de Night City](nigthcity/little_europe/second_nightcity_fire_department)
-16. [Curto-Circuito](nigthcity/little_europe/short_circuit)
+11. [Corte Camden](nightcity/little_europe/camden_court)
+12. [Escritórios da Continental Brands](nightcity/little_europe/continental_brands_offices)
+13. [Escritórios da Danger Gal](nightcity/little_europe/danger_gal_offices)
+14. [Igreja dos Santos Anjos](nightcity/little_europe/church_of_the_holy_angels)
+15. [2° Corpo de Bombeiros de Night City](nightcity/little_europe/second_nightcity_fire_department)
+16. [Curto-Circuito](nightcity/little_europe/short_circuit)
 
 ### Marina Superior
 
 Um distrito urbano movimentado com uma mistura de antigas zonas industriaise fistintos bairros de estilo “Internacional” construídos em torno de uma marina bem-conservada.
 
 {:start="17"}
-17. [Centro Médico da Cidade](nigthcity/superior_marina/city_medical_center)
-18. [Estádios McCartney](nigthcity/superior_marina/mccartney_stadiums)
-19. [Escritórios da REO Meatwagon](nigthcity/superior_marina/reo_meatwagon_offices)
-20. [Afterlife](nigthcity/superior_marina/afterlife)
-21. [Escritórios da Ziggurat](nigthcity/superior_marina/ziggurat_offices)
+17. [Centro Médico da Cidade](nightcity/superior_marina/city_medical_center)
+18. [Estádios McCartney](nightcity/superior_marina/mccartney_stadiums)
+19. [Escritórios da REO Meatwagon](nightcity/superior_marina/reo_meatwagon_offices)
+20. [Afterlife](nightcity/superior_marina/afterlife)
+21. [Escritórios da Ziggurat](nightcity/superior_marina/ziggurat_offices)
 
 ### Desenvolvimento Watson
 
 Um distrito em desenvolvimento onde megaedifícios e arcologias estão sendo contruídos para abrigar os milhares de desabrigados da Guerra. Grande parte da população asiática de Night City se mudou para o bairro de Watson, comumente conhecido como Kabuki.
 
 {:start="22"}
-22. [3° Delegacia de Polícia da Cidade](nigthcity/watson_development/third_cityPolice_station)
-23. [Escritórios da Petrochem](nigthcity/watson_development/petrochem_offices)
-24. [Escritórios da SovOil](nigthcity/watson_development/sovoil_offices)
-25. [Torre da Divisão de Trauma](nigthcity/watson_development/trauma_team_tower)
+22. [3° Delegacia de Polícia da Cidade](nightcity/watson_development/third_cityPolice_station)
+23. [Escritórios da Petrochem](nightcity/watson_development/petrochem_offices)
+24. [Escritórios da SovOil](nightcity/watson_development/sovoil_offices)
+25. [Torre da Divisão de Trauma](nightcity/watson_development/trauma_team_tower)
 
 ### Base Militar do Norte da Califónia
 
 Uma base militar fortemente fortificada ao norte de Night City, ocupada principalmente por soldados da Militech. Em grande parte isodala do resto da Cidade.
 
 {:start="26"}
-26. [Escritórios da Militech](nigthcity/northern_california_military_base/militech_offices)
+26. [Escritórios da Militech](nightcity/northern_california_military_base/militech_offices)
 
 ### Pedra do Morro
 
 {:start="27"}
-27. [Catapultas Eletromagnéticas da Orbital Air](nigthcity/morro_rock/orbital_air_electromagnetic_catapults)
+27. [Catapultas Eletromagnéticas da Orbital Air](nightcity/morro_rock/orbital_air_electromagnetic_catapults)
 
 ### Pacífica Recreativa
 
 Um distrito basicamente apadrinhado por Corporações, construído ao redor do parque de diversões Playland by the Sea, que se encontra no centro desse grande desenvolvimento.
 
 {:start="28"}
-28. [Playland by the Sea](nigthcity/pacific_recreational/playland_by_the_sea)
+28. [Playland by the Sea](nightcity/pacific_recreational/playland_by_the_sea)
 ## Zona Executiva
 
 > [!IMPORTANT]  
@@ -133,31 +133,31 @@ Os Bairros que fazem parte das Zonas de Combate são:
 Outrora um popular centro cultural japonês que entrou em caos e desespero durante a Quarta Guerra Corporativa. Grande parte da população se mudou para Watson e a área agora está praticamente abandonada, exceto pelas gangues.
 
 {:start="29"}
-29. [Centro Médico de Emergência](nigthcity/ancient_city_japan/emergency_medical_center)
-30. [Highcourt Plaza Hotel](nigthcity/ancient_city_japan/highcourt_plaza_hotel)
+29. [Centro Médico de Emergência](nightcity/ancient_city_japan/emergency_medical_center)
+30. [Highcourt Plaza Hotel](nightcity/ancient_city_japan/highcourt_plaza_hotel)
 
 ### Pequena China
 
 Uma Chinatown extensa e perigosa com muitas pequenas comunidades lutando para sobreviver e para afastar as gangues que surgem das Zonas de Combate.
 
 {:start="31"}
-31. [A Esperança Perdida](nigthcity/little_china/the_lost_hope)
+31. [A Esperança Perdida](nightcity/little_china/the_lost_hope)
 
 ### Antiga Zona de Combate
 
 A Antiga Zona de Combate, um distrito da Cidade já muito abandonado para as gangues e psicótios, é a semente de onde surgiram as demais Zonas de Combate.
 
 {:start="32"}
-32. [Jesse James’ Kosher Deli](nigthcity/former_combat_zone/jesse_james_kosher_deli)
+32. [Jesse James’ Kosher Deli](nightcity/former_combat_zone/jesse_james_kosher_deli)
 
 ### Night City Sul
 
 Uma expansão industrial, cheia de gangues e armazéns abandonados que foram reaproveitados como esconderijos e quartéis-generais.
 
 {:start="33"}
-33. [Tecnologias Médicas](nigthcity/night_city_south/medical_technologies)
-34. [Doutores Selvagens](nigthcity/night_city_south/wild_doctors)
-35. [O Slammer](nigthcity/night_city_south/the_slammer)
+33. [Tecnologias Médicas](nightcity/night_city_south/medical_technologies)
+34. [Doutores Selvagens](nightcity/night_city_south/wild_doctors)
+35. [O Slammer](nightcity/night_city_south/the_slammer)
 
 ## Subúrbios Superlotados
 
@@ -173,26 +173,26 @@ Os bairros que se encontram nos Subúrbios Superlotados são:
 Um setor realmente superlotado da Cidade que abriga grande parte de sua população e que começa a ser dividido de acordo com a riqueza e poder dos seus moradores - os ricos ao norte, os pobres ao sul (que chamam a área de Santo Domingo).
 
 {start="36"}
-36. [Acampamento dos Aldecaldo](nigthcity/heywood/aldecaldo_camp)
-37. [2° Delegacia de Polícia da Cidade](nigthcity/heywood/second_city_police_station)
-38. [MetalStorm](nigthcity/heywood/metalstorm)
+36. [Acampamento dos Aldecaldo](nightcity/heywood/aldecaldo_camp)
+37. [2° Delegacia de Polícia da Cidade](nightcity/heywood/second_city_police_station)
+38. [MetalStorm](nightcity/heywood/metalstorm)
 
 ### Zona Industrial de Heywood
 
 A maior zona industrial da Cidade, repleta de armazéns, equipamentos de construção, fábricas e até mesmo alguns navios de carga abandonados.
 
 {start="39"}
-39. [Escritórios da Zhirafa](nigthcity/heywood_industrial_estate/zhirafa_offices.md)
+39. [Escritórios da Zhirafa](nightcity/heywood_industrial_estate/zhirafa_offices)
 
 ### Nova Westbrook
 
 Uma extensão urbana construída nas ruínas da Zona Executiva original, ainda vívida com brilho e glamour, mas agora repleta de moradores de rua que fugiram de outra áreas de Night City por causa da Guerra, ou que, mais recentemente, foram expulsos devido remodelação em curso de Centro em Reconstrução
 
 {start="40"}
-40. [Escritórios da Network 54](nigthcity/new_westbrook/network_54_offices)
-41. [1° Corpo de Bombeiros de Night City](nigthcity/new_westbrook/first_nightcity_fire_department)
-42. [Campus da Rocklin Augmentics](nigthcity/new_westbrook/rocklin_augmentics_campus)
-43. [Escritórios da WorldSat](nigthcity/new_westbrook/worldsat_offices)
+40. [Escritórios da Network 54](nightcity/new_westbrook/network_54_offices)
+41. [1° Corpo de Bombeiros de Night City](nightcity/new_westbrook/first_nightcity_fire_department)
+42. [Campus da Rocklin Augmentics](nightcity/new_westbrook/rocklin_augmentics_campus)
+43. [Escritórios da WorldSat](nightcity/new_westbrook/worldsat_offices)
 
 ### Rancho Coronado
 
