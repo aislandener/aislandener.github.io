@@ -5,3 +5,4 @@ Wiki com as informações públicas sobre o jogo Cyberpunk RED
 - [🌆Night City](nightcity.md)
 - [🧑‍🎤 Pessoas conhecidas](stakeholders.md)
 - [💊 Drogas de Rua](drugs)
+- 🏨

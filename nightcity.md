@@ -182,7 +182,7 @@ Um setor realmente superlotado da Cidade que abriga grande parte de sua populaç
 A maior zona industrial da Cidade, repleta de armazéns, equipamentos de construção, fábricas e até mesmo alguns navios de carga abandonados.
 
 {start="39"}
-39. [Zhirafa Offices](nigthcity/heywood_industrial_estate/zhirafa_offices)
+39. [Escritórios da Zhirafa](nigthcity/heywood_industrial_estate/zhirafa_offices.md)
 
 ### Nova Westbrook
 
